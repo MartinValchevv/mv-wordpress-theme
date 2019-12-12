@@ -1,0 +1,39 @@
+/*
+Theme Name: MV-custom-theme
+Theme URI: 
+Author: Martin Valchev
+Author URI: 
+Description: My first WordPresstheme
+Version: 1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: SASS, clean, bootstrap
+Text Domain: mv-custom-theme
+*/
+
+/* @import './css/main.css'; */
+
+#wpadminbar {
+    display: none;
+}
+
+#main-menu > ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    list-style: none;
+    list-style-image: none;
+    margin-bottom: 0 !important;
+}
+
+
+#main-menu > ul > li > a {
+    padding: 5px 20px;
+    color: white;
+}
+
+#main-menu > ul > li > a:hover {
+    color: #007bff;
+}
+
