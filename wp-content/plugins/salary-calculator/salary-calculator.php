@@ -59,15 +59,13 @@ class SalaryCalculatorPlugin
             echo 'Not a valid nonce';
         }
 
-        if (isset($_POST['contact-us-admin-form'])) {
+        if (isset($_POST['salary-admin-form'])) {
             $data = array(
-                'gm_code' => $_POST['gm_code'],
-                'email' => sanitize_text_field($_POST['email']),
-                'phone' => sanitize_text_field($_POST['phone']),
-                'additional_info' => sanitize_text_field($_POST['additional_info']),
+                'sum_per_hour' => sanitize_text_field($_POST['sum_per_hour']),
+                'day_hours' => sanitize_text_field($_POST['day_hours']),
             );
 
-            update_option('contact-us-data', json_encode($data));
+            update_option('salary-data', json_encode($data));
         }
 
         $this->redirect();
@@ -75,7 +73,7 @@ class SalaryCalculatorPlugin
 
     public function getOption($name) //email
     {
-        $data = get_option('contact-us-data');
+        $data = get_option('salary-data');
         if (empty($data)) {
             return false;
         }
@@ -91,12 +89,12 @@ class SalaryCalculatorPlugin
     private function has_valid_nonce()
     {
         // If the field isn't even in the $_POST, then it's invalid.
-        if (!isset($_POST['contact-us-message'])) {
+        if (!isset($_POST['salary-message'])) {
             return false;
         }
 
-        $field  = wp_unslash($_POST['contact-us-message']);
-        $action = 'contact-us-save';
+        $field  = wp_unslash($_POST['salary-message']);
+        $action = 'salary-save';
 
         return wp_verify_nonce($field, $action);
     }

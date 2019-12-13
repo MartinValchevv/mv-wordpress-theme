@@ -3,8 +3,6 @@
 <?php get_header(); ?>
 <div class="container pt-5 pb-5">
 
-<?php echo do_shortcode('[salary-calculator-plugin]'); ?>
-
 
 <section class="mb-4">
 

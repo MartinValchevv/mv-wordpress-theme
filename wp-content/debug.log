@@ -13754,3 +13754,338 @@ Stack trace:
 [12-Dec-2019 23:00:07 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
 [12-Dec-2019 23:00:07 UTC] PHP   5. the_content() C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\calculator.php:6
 [12-Dec-2019 23:00:07 UTC] PHP   6. get_the_content() C:\xampp\htdocs\wptest\wp-includes\post-template.php:238
+[13-Dec-2019 16:40:56 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 16:40:56 UTC] PHP Stack trace:
+[13-Dec-2019 16:40:56 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 16:40:56 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 16:40:56 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 16:40:56 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 16:40:56 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 16:40:56 UTC] PHP Stack trace:
+[13-Dec-2019 16:40:56 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 16:40:56 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 16:40:56 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 16:40:56 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 16:40:56 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 16:40:56 UTC] PHP Stack trace:
+[13-Dec-2019 16:40:56 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 16:40:56 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 16:40:56 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 16:40:56 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 16:41:06 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\product-template.php on line 19
+[13-Dec-2019 16:41:06 UTC] PHP Stack trace:
+[13-Dec-2019 16:41:06 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 16:41:06 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 16:41:06 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 16:41:06 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 16:41:06 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\product-template.php on line 19
+[13-Dec-2019 16:41:06 UTC] PHP Stack trace:
+[13-Dec-2019 16:41:06 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 16:41:06 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 16:41:06 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 16:41:06 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 16:41:06 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\product-template.php on line 19
+[13-Dec-2019 16:41:06 UTC] PHP Stack trace:
+[13-Dec-2019 16:41:06 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 16:41:06 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 16:41:06 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 16:41:06 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 16:41:06 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\product-template.php on line 19
+[13-Dec-2019 16:41:06 UTC] PHP Stack trace:
+[13-Dec-2019 16:41:06 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 16:41:06 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 16:41:06 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 16:41:06 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 16:41:16 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 16:41:16 UTC] PHP Stack trace:
+[13-Dec-2019 16:41:16 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 16:41:16 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 16:41:16 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 16:41:16 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 16:41:16 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 16:41:16 UTC] PHP Stack trace:
+[13-Dec-2019 16:41:16 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 16:41:16 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 16:41:16 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 16:41:16 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 16:41:16 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 16:41:16 UTC] PHP Stack trace:
+[13-Dec-2019 16:41:16 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 16:41:16 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 16:41:16 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 16:41:16 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 16:46:10 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 16:46:10 UTC] PHP Stack trace:
+[13-Dec-2019 16:46:10 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 16:46:10 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 16:46:10 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 16:46:10 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 16:46:10 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 16:46:10 UTC] PHP Stack trace:
+[13-Dec-2019 16:46:10 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 16:46:10 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 16:46:10 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 16:46:10 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 16:46:10 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 16:46:10 UTC] PHP Stack trace:
+[13-Dec-2019 16:46:10 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 16:46:10 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 16:46:10 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 16:46:10 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 16:46:13 UTC] PHP Notice:  Undefined variable: str in C:\xampp\htdocs\wptest\wp-content\plugins\salary-calculator\views\frontend-page.php on line 120
+[13-Dec-2019 16:46:13 UTC] PHP Stack trace:
+[13-Dec-2019 16:46:13 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 16:46:13 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 16:46:13 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 16:46:13 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 16:46:13 UTC] PHP   5. do_shortcode() C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\calculator.php:6
+[13-Dec-2019 16:46:13 UTC] PHP   6. preg_replace_callback() C:\xampp\htdocs\wptest\wp-includes\shortcodes.php:199
+[13-Dec-2019 16:46:13 UTC] PHP   7. do_shortcode_tag() C:\xampp\htdocs\wptest\wp-includes\shortcodes.php:199
+[13-Dec-2019 16:46:13 UTC] PHP   8. SalaryCalculatorPlugin->shortcodeAction() C:\xampp\htdocs\wptest\wp-includes\shortcodes.php:325
+[13-Dec-2019 16:46:13 UTC] PHP   9. include_once() C:\xampp\htdocs\wptest\wp-content\plugins\salary-calculator\salary-calculator.php:48
+[13-Dec-2019 17:51:45 UTC] PHP Notice:  Undefined index: gm_code in C:\xampp\htdocs\wptest\wp-content\plugins\salary-calculator\salary-calculator.php on line 64
+[13-Dec-2019 17:51:45 UTC] PHP Stack trace:
+[13-Dec-2019 17:51:45 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:0
+[13-Dec-2019 17:51:45 UTC] PHP   2. do_action() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:60
+[13-Dec-2019 17:51:45 UTC] PHP   3. WP_Hook->do_action() C:\xampp\htdocs\wptest\wp-includes\plugin.php:465
+[13-Dec-2019 17:51:45 UTC] PHP   4. WP_Hook->apply_filters() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:310
+[13-Dec-2019 17:51:45 UTC] PHP   5. SalaryCalculatorPlugin->save() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:286
+[13-Dec-2019 17:51:45 UTC] PHP Notice:  Undefined index: email in C:\xampp\htdocs\wptest\wp-content\plugins\salary-calculator\salary-calculator.php on line 65
+[13-Dec-2019 17:51:45 UTC] PHP Stack trace:
+[13-Dec-2019 17:51:45 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:0
+[13-Dec-2019 17:51:45 UTC] PHP   2. do_action() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:60
+[13-Dec-2019 17:51:45 UTC] PHP   3. WP_Hook->do_action() C:\xampp\htdocs\wptest\wp-includes\plugin.php:465
+[13-Dec-2019 17:51:45 UTC] PHP   4. WP_Hook->apply_filters() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:310
+[13-Dec-2019 17:51:45 UTC] PHP   5. SalaryCalculatorPlugin->save() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:286
+[13-Dec-2019 17:51:45 UTC] PHP Notice:  Undefined index: phone in C:\xampp\htdocs\wptest\wp-content\plugins\salary-calculator\salary-calculator.php on line 66
+[13-Dec-2019 17:51:45 UTC] PHP Stack trace:
+[13-Dec-2019 17:51:45 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:0
+[13-Dec-2019 17:51:45 UTC] PHP   2. do_action() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:60
+[13-Dec-2019 17:51:45 UTC] PHP   3. WP_Hook->do_action() C:\xampp\htdocs\wptest\wp-includes\plugin.php:465
+[13-Dec-2019 17:51:45 UTC] PHP   4. WP_Hook->apply_filters() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:310
+[13-Dec-2019 17:51:45 UTC] PHP   5. SalaryCalculatorPlugin->save() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:286
+[13-Dec-2019 17:51:45 UTC] PHP Notice:  Undefined index: additional_info in C:\xampp\htdocs\wptest\wp-content\plugins\salary-calculator\salary-calculator.php on line 67
+[13-Dec-2019 17:51:45 UTC] PHP Stack trace:
+[13-Dec-2019 17:51:45 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:0
+[13-Dec-2019 17:51:45 UTC] PHP   2. do_action() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:60
+[13-Dec-2019 17:51:45 UTC] PHP   3. WP_Hook->do_action() C:\xampp\htdocs\wptest\wp-includes\plugin.php:465
+[13-Dec-2019 17:51:45 UTC] PHP   4. WP_Hook->apply_filters() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:310
+[13-Dec-2019 17:51:45 UTC] PHP   5. SalaryCalculatorPlugin->save() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:286
+[13-Dec-2019 17:52:02 UTC] PHP Notice:  Undefined index: gm_code in C:\xampp\htdocs\wptest\wp-content\plugins\salary-calculator\salary-calculator.php on line 64
+[13-Dec-2019 17:52:02 UTC] PHP Stack trace:
+[13-Dec-2019 17:52:02 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:0
+[13-Dec-2019 17:52:02 UTC] PHP   2. do_action() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:60
+[13-Dec-2019 17:52:02 UTC] PHP   3. WP_Hook->do_action() C:\xampp\htdocs\wptest\wp-includes\plugin.php:465
+[13-Dec-2019 17:52:02 UTC] PHP   4. WP_Hook->apply_filters() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:310
+[13-Dec-2019 17:52:02 UTC] PHP   5. SalaryCalculatorPlugin->save() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:286
+[13-Dec-2019 17:52:02 UTC] PHP Notice:  Undefined index: email in C:\xampp\htdocs\wptest\wp-content\plugins\salary-calculator\salary-calculator.php on line 65
+[13-Dec-2019 17:52:02 UTC] PHP Stack trace:
+[13-Dec-2019 17:52:02 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:0
+[13-Dec-2019 17:52:02 UTC] PHP   2. do_action() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:60
+[13-Dec-2019 17:52:02 UTC] PHP   3. WP_Hook->do_action() C:\xampp\htdocs\wptest\wp-includes\plugin.php:465
+[13-Dec-2019 17:52:02 UTC] PHP   4. WP_Hook->apply_filters() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:310
+[13-Dec-2019 17:52:02 UTC] PHP   5. SalaryCalculatorPlugin->save() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:286
+[13-Dec-2019 17:52:02 UTC] PHP Notice:  Undefined index: phone in C:\xampp\htdocs\wptest\wp-content\plugins\salary-calculator\salary-calculator.php on line 66
+[13-Dec-2019 17:52:02 UTC] PHP Stack trace:
+[13-Dec-2019 17:52:02 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:0
+[13-Dec-2019 17:52:02 UTC] PHP   2. do_action() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:60
+[13-Dec-2019 17:52:02 UTC] PHP   3. WP_Hook->do_action() C:\xampp\htdocs\wptest\wp-includes\plugin.php:465
+[13-Dec-2019 17:52:02 UTC] PHP   4. WP_Hook->apply_filters() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:310
+[13-Dec-2019 17:52:02 UTC] PHP   5. SalaryCalculatorPlugin->save() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:286
+[13-Dec-2019 17:52:02 UTC] PHP Notice:  Undefined index: additional_info in C:\xampp\htdocs\wptest\wp-content\plugins\salary-calculator\salary-calculator.php on line 67
+[13-Dec-2019 17:52:02 UTC] PHP Stack trace:
+[13-Dec-2019 17:52:02 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:0
+[13-Dec-2019 17:52:02 UTC] PHP   2. do_action() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:60
+[13-Dec-2019 17:52:02 UTC] PHP   3. WP_Hook->do_action() C:\xampp\htdocs\wptest\wp-includes\plugin.php:465
+[13-Dec-2019 17:52:02 UTC] PHP   4. WP_Hook->apply_filters() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:310
+[13-Dec-2019 17:52:02 UTC] PHP   5. SalaryCalculatorPlugin->save() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:286
+[13-Dec-2019 17:53:09 UTC] PHP Notice:  Undefined index: gm_code in C:\xampp\htdocs\wptest\wp-content\plugins\salary-calculator\salary-calculator.php on line 64
+[13-Dec-2019 17:53:09 UTC] PHP Stack trace:
+[13-Dec-2019 17:53:09 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:0
+[13-Dec-2019 17:53:09 UTC] PHP   2. do_action() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:60
+[13-Dec-2019 17:53:09 UTC] PHP   3. WP_Hook->do_action() C:\xampp\htdocs\wptest\wp-includes\plugin.php:465
+[13-Dec-2019 17:53:09 UTC] PHP   4. WP_Hook->apply_filters() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:310
+[13-Dec-2019 17:53:09 UTC] PHP   5. SalaryCalculatorPlugin->save() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:286
+[13-Dec-2019 17:53:09 UTC] PHP Notice:  Undefined index: email in C:\xampp\htdocs\wptest\wp-content\plugins\salary-calculator\salary-calculator.php on line 65
+[13-Dec-2019 17:53:09 UTC] PHP Stack trace:
+[13-Dec-2019 17:53:09 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:0
+[13-Dec-2019 17:53:09 UTC] PHP   2. do_action() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:60
+[13-Dec-2019 17:53:09 UTC] PHP   3. WP_Hook->do_action() C:\xampp\htdocs\wptest\wp-includes\plugin.php:465
+[13-Dec-2019 17:53:09 UTC] PHP   4. WP_Hook->apply_filters() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:310
+[13-Dec-2019 17:53:09 UTC] PHP   5. SalaryCalculatorPlugin->save() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:286
+[13-Dec-2019 17:53:09 UTC] PHP Notice:  Undefined index: phone in C:\xampp\htdocs\wptest\wp-content\plugins\salary-calculator\salary-calculator.php on line 66
+[13-Dec-2019 17:53:09 UTC] PHP Stack trace:
+[13-Dec-2019 17:53:09 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:0
+[13-Dec-2019 17:53:09 UTC] PHP   2. do_action() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:60
+[13-Dec-2019 17:53:09 UTC] PHP   3. WP_Hook->do_action() C:\xampp\htdocs\wptest\wp-includes\plugin.php:465
+[13-Dec-2019 17:53:09 UTC] PHP   4. WP_Hook->apply_filters() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:310
+[13-Dec-2019 17:53:09 UTC] PHP   5. SalaryCalculatorPlugin->save() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:286
+[13-Dec-2019 17:53:09 UTC] PHP Notice:  Undefined index: additional_info in C:\xampp\htdocs\wptest\wp-content\plugins\salary-calculator\salary-calculator.php on line 67
+[13-Dec-2019 17:53:09 UTC] PHP Stack trace:
+[13-Dec-2019 17:53:09 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:0
+[13-Dec-2019 17:53:09 UTC] PHP   2. do_action() C:\xampp\htdocs\wptest\wp-admin\admin-post.php:60
+[13-Dec-2019 17:53:09 UTC] PHP   3. WP_Hook->do_action() C:\xampp\htdocs\wptest\wp-includes\plugin.php:465
+[13-Dec-2019 17:53:09 UTC] PHP   4. WP_Hook->apply_filters() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:310
+[13-Dec-2019 17:53:09 UTC] PHP   5. SalaryCalculatorPlugin->save() C:\xampp\htdocs\wptest\wp-includes\class-wp-hook.php:286
+[13-Dec-2019 18:21:19 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 18:21:19 UTC] PHP Stack trace:
+[13-Dec-2019 18:21:19 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:21:19 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:21:19 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:21:19 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:21:19 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 18:21:19 UTC] PHP Stack trace:
+[13-Dec-2019 18:21:19 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:21:19 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:21:19 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:21:19 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:21:19 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 18:21:19 UTC] PHP Stack trace:
+[13-Dec-2019 18:21:19 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:21:19 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:21:19 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:21:19 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:21:26 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 18:21:26 UTC] PHP Stack trace:
+[13-Dec-2019 18:21:26 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:21:26 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:21:26 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:21:26 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:21:26 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 18:21:26 UTC] PHP Stack trace:
+[13-Dec-2019 18:21:26 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:21:26 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:21:26 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:21:26 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:21:26 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 18:21:26 UTC] PHP Stack trace:
+[13-Dec-2019 18:21:26 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:21:26 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:21:26 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:21:26 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:21:28 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\product-template.php on line 19
+[13-Dec-2019 18:21:28 UTC] PHP Stack trace:
+[13-Dec-2019 18:21:28 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:21:28 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:21:28 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:21:28 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:21:28 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\product-template.php on line 19
+[13-Dec-2019 18:21:28 UTC] PHP Stack trace:
+[13-Dec-2019 18:21:28 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:21:28 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:21:28 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:21:28 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:21:28 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\product-template.php on line 19
+[13-Dec-2019 18:21:28 UTC] PHP Stack trace:
+[13-Dec-2019 18:21:28 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:21:28 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:21:28 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:21:28 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:21:28 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\product-template.php on line 19
+[13-Dec-2019 18:21:28 UTC] PHP Stack trace:
+[13-Dec-2019 18:21:28 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:21:28 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:21:28 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:21:28 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:21:32 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\product-template.php on line 19
+[13-Dec-2019 18:21:32 UTC] PHP Stack trace:
+[13-Dec-2019 18:21:32 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:21:32 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:21:32 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:21:32 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:21:32 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\product-template.php on line 19
+[13-Dec-2019 18:21:32 UTC] PHP Stack trace:
+[13-Dec-2019 18:21:32 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:21:32 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:21:32 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:21:32 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:21:32 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\product-template.php on line 19
+[13-Dec-2019 18:21:32 UTC] PHP Stack trace:
+[13-Dec-2019 18:21:32 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:21:32 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:21:32 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:21:32 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:21:32 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\product-template.php on line 19
+[13-Dec-2019 18:21:32 UTC] PHP Stack trace:
+[13-Dec-2019 18:21:32 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:21:32 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:21:32 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:21:32 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:22:01 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\product-template.php on line 19
+[13-Dec-2019 18:22:01 UTC] PHP Stack trace:
+[13-Dec-2019 18:22:01 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:22:01 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:22:01 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:22:01 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:22:01 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\product-template.php on line 19
+[13-Dec-2019 18:22:01 UTC] PHP Stack trace:
+[13-Dec-2019 18:22:01 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:22:01 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:22:01 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:22:01 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:22:01 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\product-template.php on line 19
+[13-Dec-2019 18:22:01 UTC] PHP Stack trace:
+[13-Dec-2019 18:22:01 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:22:01 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:22:01 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:22:01 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:22:01 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\product-template.php on line 19
+[13-Dec-2019 18:22:01 UTC] PHP Stack trace:
+[13-Dec-2019 18:22:01 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:22:01 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:22:01 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:22:01 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:22:50 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 18:22:50 UTC] PHP Stack trace:
+[13-Dec-2019 18:22:50 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:22:50 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:22:50 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:22:50 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:22:50 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 18:22:50 UTC] PHP Stack trace:
+[13-Dec-2019 18:22:50 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:22:50 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:22:50 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:22:50 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:22:50 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 18:22:50 UTC] PHP Stack trace:
+[13-Dec-2019 18:22:50 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:22:50 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:22:50 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:22:50 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:23:01 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 18:23:01 UTC] PHP Stack trace:
+[13-Dec-2019 18:23:01 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:23:01 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:23:01 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:23:01 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:23:01 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 18:23:01 UTC] PHP Stack trace:
+[13-Dec-2019 18:23:01 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:23:01 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:23:01 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:23:01 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:23:01 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 18:23:01 UTC] PHP Stack trace:
+[13-Dec-2019 18:23:01 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:23:01 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:23:01 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:23:01 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:23:15 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 18:23:15 UTC] PHP Stack trace:
+[13-Dec-2019 18:23:15 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:23:15 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:23:15 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:23:15 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:23:15 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 18:23:15 UTC] PHP Stack trace:
+[13-Dec-2019 18:23:15 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:23:15 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:23:15 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:23:15 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78
+[13-Dec-2019 18:23:15 UTC] PHP Notice:  Undefined variable: post_id in C:\xampp\htdocs\wptest\wp-content\themes\mv-custom-theme\front-page.php on line 77
+[13-Dec-2019 18:23:15 UTC] PHP Stack trace:
+[13-Dec-2019 18:23:15 UTC] PHP   1. {main}() C:\xampp\htdocs\wptest\index.php:0
+[13-Dec-2019 18:23:15 UTC] PHP   2. require() C:\xampp\htdocs\wptest\index.php:17
+[13-Dec-2019 18:23:15 UTC] PHP   3. require_once() C:\xampp\htdocs\wptest\wp-blog-header.php:19
+[13-Dec-2019 18:23:15 UTC] PHP   4. include() C:\xampp\htdocs\wptest\wp-includes\template-loader.php:78

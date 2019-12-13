@@ -1,28 +1,9 @@
 <?php
 if (!defined('ABSPATH')) exit;
 global $salaryCalculatorPlugin;
+$sumPerHour = $salaryCalculatorPlugin->getOption('sum_per_hour');
+$dayHours = $salaryCalculatorPlugin->getOption('day_hours');
 ?>
-
-<!-- <div class="contact-us-container">
-    <div class="information">
-        <h2><?php _e('Information'); ?></h2>
-        <p>
-            <?php _e('Email'); ?>:
-            <?php echo $salaryCalculatorPlugin->getOption('email'); ?>
-        </p>
-        <p><?php _e('Phone'); ?>:
-            <?php echo $salaryCalculatorPlugin->getOption('phone'); ?>
-        </p>
-        <p>
-            <?php _e('Additional info'); ?>:
-            <?php echo $salaryCalculatorPlugin->getOption('additional_info'); ?>
-        </p>
-    </div>
-     <div class="google-map">
-        <h2><?php _e('Google maps'); ?></h2>
-        <?php echo $salaryCalculatorPlugin->getOption('gm_code'); ?>
-    </div>
-</div> -->
 
 <div class="container">
 
@@ -39,7 +20,7 @@ global $salaryCalculatorPlugin;
             <!-- Text input-->
 
             <div class="form-group">
-                <label class="col-md-4 control-label">Брой дежурства</label>
+                <label class="col-md-4 control-label">Работни дни</label>
                 <div class="col-md-4 inputGroupContainer">
                     <div class="input-group">
                         <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
@@ -52,11 +33,11 @@ global $salaryCalculatorPlugin;
             <!-- Text input-->
 
             <div class="form-group">
-                <label class="col-md-4 control-label">Дни отпуска</label>
+                <label class="col-md-4 control-label">Болнични дни</label>
                 <div class="col-md-4 inputGroupContainer">
                     <div class="input-group">
                         <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-                        <input name="vacation-days" id="vacation-days" placeholder="Дни отпуска" class="form-control"
+                        <input name="sick-days" id="sick-days" placeholder="Болнични дни" class="form-control"
                             type="text">
                     </div>
                 </div>
@@ -102,19 +83,25 @@ global $salaryCalculatorPlugin;
         </fieldset>
     </form>
 </div>
-</div><!-- /.container -->
+</div>
 
 <script>
 
     $('#calculateBtn').click(function(e){
         e.preventDefault()
         var duty = $('#number-of-duty').val()
-        var vocation = $('#vacation-days').val()
+        var sickDays = $('#sick-days').val()
         var awards = $('#awards').val()
+        var sumPerHour = "<?php echo $sumPerHour ?>";
+        var dayHours = "<?php echo $dayHours ?>";
 
-        var sum = Number(duty) + Number(vocation) + Number(awards)
+        var resultHours = Number(duty * dayHours)
+        var resultSalary = Number(resultHours * sumPerHour)
+        var resultFromSickDays = Number((sickDays * dayHours * sumPerHour) * 0.7 )
 
-        $('#total-sum').val(sum)
+        var result = Number(resultSalary + resultFromSickDays + Number(awards))
+
+        $('#total-sum').val(result.toFixed(2))
 
 
  });

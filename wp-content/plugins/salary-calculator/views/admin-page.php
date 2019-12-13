@@ -8,31 +8,22 @@ global $salaryCalculatorPlugin;
 
 
         <form method="post" action="<?php echo esc_html(admin_url('admin-post.php')); ?>">
-        <input type="hidden" name="contact-us-admin-form" value="1" />
+        <input type="hidden" name="salary-admin-form" value="1" />
                 <div class="information">
-                        <h2><?php _e('Information'); ?></h2>
+                        <h2><?php _e('Настройки'); ?></h2>
             <p>
-                <label><?php _e('Email'); ?></label><br />
-                <input type="text" name="email" value="<?php echo $salaryCalculatorPlugin->getOption('email'); ?>" />
+                <label><?php _e('Ставка на час'); ?></label><br />
+                <input name="sum_per_hour" value="<?php echo $salaryCalculatorPlugin->getOption('sum_per_hour'); ?>" />
             </p>
             <p>
-                <label><?php _e('Phone'); ?></label><br />
-                <input name="phone" value="<?php echo $salaryCalculatorPlugin->getOption('phone'); ?>" />
+                <label><?php _e('Продължителност на работния ден (часове)'); ?></label><br />
+                <input name="day_hours" value="<?php echo $salaryCalculatorPlugin->getOption('day_hours'); ?>" />
             </p>
-            <p>
-                <label><?php _e('Additional info'); ?></label>
-                <br />
-                <textarea name="additional_info"><?php echo $salaryCalculatorPlugin->getOption('additional_info'); ?></textarea>
-            </p>
+           
         </div><!-- .information -->
-        <div class="google-map">
-            <h2><?php _e('Google maps iframe code'); ?></h2>
-            <p>
-                <textarea name="gm_code" style="min-width: 400px;min-height:100px;"><?php echo $salaryCalculatorPlugin->getOption('gm_code'); ?></textarea>
-            </p>
-        </div><!-- .google-map -->
+        
         <?php
-        wp_nonce_field('contact-us-save', 'contact-us-message');
+        wp_nonce_field('salary-save', 'salary-message');
         submit_button(); ?>  
     </form>
 </div><!-- .wrapper -->
